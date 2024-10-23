@@ -1,1 +1,3 @@
-hello, this is my readme
+hi, welcome to mongo db nosql
+alx lessons on advanced sql
+database
